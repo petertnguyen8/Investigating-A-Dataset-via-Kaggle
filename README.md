@@ -54,12 +54,6 @@ You'll need to have Python and pip installed on your machine. You can download t
 
 -----
 
-## 📜 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
------
-
 ## 🙏 Acknowledgments
 
   * [Udacity](https://www.udacity.com/)
